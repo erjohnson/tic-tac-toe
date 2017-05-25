@@ -12,7 +12,7 @@ Clone this repository or download the .zip and open up the index.html file in th
 ### Dependencies (included in the repo)
 * [jquery](http://jquery.com/)
 * [bootstrap](http://getbootstrap.com/)
-* [mocha](http://visionmedia.github.io/mocha/)
+* [mocha](http://mochajs.org/)
 * [chai](http://chaijs.com/)
 
 ### Author
